@@ -31,7 +31,7 @@ export default function Home({ allPostsData }: HomeProps) {
           ability to work effectively in a team-based environment.
         </p>
         <p>
-          In my current position, I am developing a platform built with
+          In my current job, I am developing a platform built with
           TypeScript, using React, Next, Node, Nest, and MariaDB.
         </p>
         <p>
